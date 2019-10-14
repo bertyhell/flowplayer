@@ -1,6 +1,6 @@
 {
   "name": "flowplayer-files",
-  "version": "2.1.8",
+  "version": "2.2.0",
   "description": "Flowplayer js and css files for v2.1.8 after the reboot of flowplayer",
   "main": "lib/flowplayer.min.js",
   "scripts": {
