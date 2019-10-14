@@ -1,0 +1,15 @@
+{
+  "name": "flowplayer",
+  "version": "2.1.8",
+  "description": "Flowplayer js and css files for v2.1.8 after the reboot of flowplayer",
+  "main": "flowplayer.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flowplayer",
+    "native"
+  ],
+  "author": "Bert Verhelst",
+  "license": "SEE LICENSE IN license.txt"
+}
