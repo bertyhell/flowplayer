@@ -2,7 +2,7 @@
   "name": "flowplayer-files",
   "version": "2.1.8",
   "description": "Flowplayer js and css files for v2.1.8 after the reboot of flowplayer",
-  "main": "flowplayer.min.js",
+  "main": "lib/flowplayer.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,10 @@
     "flowplayer",
     "native"
   ],
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/bertyhell/flowplayer-files"
+  },
   "author": "Bert Verhelst",
   "license": "SEE LICENSE IN license.txt"
 }
