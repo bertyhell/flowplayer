@@ -1,7 +1,7 @@
 {
   "name": "flowplayer-files",
-  "version": "2.5.1",
-  "description": "Flowplayer js and css files for v2.5.0 after the reboot of flowplayer",
+  "version": "2.5.9",
+  "description": "Flowplayer js and css files for v2.5.9 after the reboot of flowplayer",
   "main": "lib/flowplayer.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
